@@ -91,9 +91,6 @@ Cette application web simule un système de distribution de charge entre trois s
 ## 👥 Auteurs
 - Feke Jimmy Wilson
 
-## 📄 Licence
-[Préciser la licence]
-
 ## 🙏 Remerciements
 - 👨‍🏫 Professeurs du cours de Réseaux Mobiles et Intelligents : Professeur Djotio, Mme Nouhou
 - 🏫 École Nationale Supérieure Polytechnique de Yaoundé
