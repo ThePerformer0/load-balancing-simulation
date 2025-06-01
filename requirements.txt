@@ -1,0 +1,22 @@
+# Framework web
+Flask==3.0.0
+
+# Gestion des types et annotations
+typing-extensions==4.8.0
+
+# Gestion des dépendances
+Werkzeug==3.0.1
+
+# Serveur de développement
+python-dotenv==1.0.0
+
+# Gestion des requêtes HTTP
+requests==2.31.0
+
+# Sécurité
+Flask-CORS==4.0.0
+
+# Outils de développement
+pytest==7.4.3
+black==23.11.0
+flake8==6.1.0
